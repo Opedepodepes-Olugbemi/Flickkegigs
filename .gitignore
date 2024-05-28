@@ -1,2 +1,5 @@
-
-my_env
+*.db
+*.py[cod]
+.web
+__pycache__/
+myenv
