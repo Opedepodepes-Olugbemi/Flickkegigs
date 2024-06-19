@@ -1,2 +1,2 @@
-# Skillsnag
-A job searching web app using crackeddevs job searching api, with a tinder-like swipe effect, letting users search jobs with ease
+# Flickkegigs
+A job matching app, with a swipe effect, letting users search and match jobs with ease
